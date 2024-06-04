@@ -1,0 +1,26 @@
+---
+title: "GeneOverlap - GeCKO - RNAseq"
+author: "Kevin O"
+date: "2024-05-22"
+output: html_document
+---
+
+```{r}
+file_directory <- "/Users/kja11/OneDrive - Menntaský/PostDoc_Hypothermia/in_silico/Python/"
+```
+
+```{r}
+SP1_repressors <- paste0(file_directory, "1) input/RNAseq/from_output/Overlap_sp1_regulators_RNAseq_HEK293.csv")
+
+df_regulators <- read.csv(SP1_repressors)
+
+df_activators <- df_regulators[df_regulators$effect == "activators", ]
+df_repressors <- df_regulators[df_regulators$effect == "repressors", ]
+
+print(paste("size of activator list is", nrow(df_activators)))
+print(paste("size of repressors list is", nrow(df_repressors)))
+
+```
+```{r}
+head(df_activators)
+```
