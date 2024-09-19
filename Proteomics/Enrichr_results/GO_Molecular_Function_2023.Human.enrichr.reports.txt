@@ -1,0 +1,54 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Syntaxin Binding (GO:0019905)	2/53	1.831950e-03	6.312613e-02	0	0	3.551693e+01	2.238410e+02	SCFD1;VAMP2
+GO_Molecular_Function_2023	Chromatin DNA Binding (GO:0031490)	2/83	4.425923e-03	6.312613e-02	0	0	2.232884e+01	1.210285e+02	SUZ12;H3-3A
+GO_Molecular_Function_2023	RNA Binding (GO:0003723)	6/1411	5.444466e-03	6.312613e-02	0	0	4.405931e+00	2.296880e+01	PPP1CC;PPAN;MRPL23;NUDT5;EXOSC2;SNRPB
+GO_Molecular_Function_2023	5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] Hydrolase Activity (GO:0140933)	1/6	7.179245e-03	6.312613e-02	0	0	1.736609e+02	8.572875e+02	NUDT5
+GO_Molecular_Function_2023	mRNA 5'-Phosphatase Activity (GO:0140818)	1/6	7.179245e-03	6.312613e-02	0	0	1.736609e+02	8.572875e+02	NUDT5
+GO_Molecular_Function_2023	Hydroxymethyl-, Formyl- And Related Transferase Activity (GO:0016742)	1/7	8.370979e-03	6.312613e-02	0	0	1.447101e+02	6.921464e+02	GCSH
+GO_Molecular_Function_2023	Dipeptidase Activity (GO:0016805)	1/10	1.193796e-02	6.312613e-02	0	0	9.645894e+01	4.271232e+02	PM20D2
+GO_Molecular_Function_2023	RNA Polymerase II Core Promoter Sequence-Specific DNA Binding (GO:0000979)	1/12	1.430912e-02	6.312613e-02	0	0	7.891304e+01	3.351325e+02	H3-3A
+GO_Molecular_Function_2023	4 Iron, 4 Sulfur Cluster Binding (GO:0051539)	1/13	1.549266e-02	6.312613e-02	0	0	7.233333e+01	3.014412e+02	ETFDH
+GO_Molecular_Function_2023	Nucleotidyltransferase Activity (GO:0016779)	1/14	1.667483e-02	6.312613e-02	0	0	6.676589e+01	2.733299e+02	NUDT5
+GO_Molecular_Function_2023	Aldehyde Dehydrogenase (NAD+) Activity (GO:0004029)	1/14	1.667483e-02	6.312613e-02	0	0	6.676589e+01	2.733299e+02	ALDH2
+GO_Molecular_Function_2023	Aldehyde Dehydrogenase [NAD(P)+] Activity (GO:0004030)	1/14	1.667483e-02	6.312613e-02	0	0	6.676589e+01	2.733299e+02	ALDH2
+GO_Molecular_Function_2023	RNA Exonuclease Activity (GO:0004532)	1/14	1.667483e-02	6.312613e-02	0	0	6.676589e+01	2.733299e+02	EXOSC2
+GO_Molecular_Function_2023	Nucleoside Diphosphate Phosphatase Activity (GO:0017110)	1/14	1.667483e-02	6.312613e-02	0	0	6.676589e+01	2.733299e+02	NUDT5
+GO_Molecular_Function_2023	Syntaxin-1 Binding (GO:0017075)	1/16	1.903509e-02	6.725732e-02	0	0	5.785797e+01	2.292027e+02	VAMP2
+GO_Molecular_Function_2023	Mannose Binding (GO:0005537)	1/18	2.138993e-02	6.949144e-02	0	0	5.104604e+01	1.962636e+02	LMAN2
+GO_Molecular_Function_2023	Histone Methyltransferase Activity (GO:0042054)	1/19	2.256531e-02	6.949144e-02	0	0	4.820773e+01	1.827720e+02	SUZ12
+GO_Molecular_Function_2023	Oxidoreductase Activity, Acting On The Aldehyde Or Oxo Group Of Donors, NAD Or NADP As Acceptor (GO:0016620)	1/20	2.373934e-02	6.949144e-02	0	0	4.566819e+01	1.708274e+02	ALDH2
+GO_Molecular_Function_2023	Telomerase RNA Binding (GO:0070034)	1/21	2.491202e-02	6.949144e-02	0	0	4.338261e+01	1.601861e+02	SNRPB
+GO_Molecular_Function_2023	NAD Binding (GO:0051287)	1/26	3.075521e-02	8.150131e-02	0	0	3.469739e+01	1.208058e+02	ALDH2
+GO_Molecular_Function_2023	RNA Exonuclease Activity, Producing 5'-Phosphomonoesters (GO:0016896)	1/30	3.540559e-02	8.396116e-02	0	0	2.990555e+01	9.991101e+01	EXOSC2
+GO_Molecular_Function_2023	Adenyl Nucleotide Binding (GO:0030554)	1/31	3.656484e-02	8.396116e-02	0	0	2.890725e+01	9.564449e+01	ALDH2
+GO_Molecular_Function_2023	snoRNA Binding (GO:0030515)	1/31	3.656484e-02	8.396116e-02	0	0	2.890725e+01	9.564449e+01	NUDT5
+GO_Molecular_Function_2023	3'-5'-RNA Exonuclease Activity (GO:0000175)	1/34	4.003458e-02	8.396116e-02	0	0	2.627536e+01	8.455442e+01	EXOSC2
+GO_Molecular_Function_2023	Nucleosomal DNA Binding (GO:0031492)	1/34	4.003458e-02	8.396116e-02	0	0	2.627536e+01	8.455442e+01	H3-3A
+GO_Molecular_Function_2023	Core Promoter Sequence-Specific DNA Binding (GO:0001046)	1/35	4.118849e-02	8.396116e-02	0	0	2.550128e+01	8.133878e+01	H3-3A
+GO_Molecular_Function_2023	Protein Homodimerization Activity (GO:0042803)	3/662	4.360051e-02	8.558619e-02	0	0	4.187514e+00	1.311817e+01	NUDT5;MAPK4;S100A10
+GO_Molecular_Function_2023	3'-5' Exonuclease Activity (GO:0008408)	1/42	4.922878e-02	8.996983e-02	0	0	2.113998e+01	6.365833e+01	EXOSC2
+GO_Molecular_Function_2023	Transcription Corepressor Binding (GO:0001222)	1/42	4.922878e-02	8.996983e-02	0	0	2.113998e+01	6.365833e+01	SUZ12
+GO_Molecular_Function_2023	rRNA Binding (GO:0019843)	1/46	5.379417e-02	9.197068e-02	0	0	1.925700e+01	5.628033e+01	PPAN
+GO_Molecular_Function_2023	Exonuclease Activity (GO:0004527)	1/46	5.379417e-02	9.197068e-02	0	0	1.925700e+01	5.628033e+01	EXOSC2
+GO_Molecular_Function_2023	Pyrophosphatase Activity (GO:0016462)	1/49	5.720442e-02	9.327417e-02	0	0	1.805072e+01	5.164536e+01	NUDT5
+GO_Molecular_Function_2023	Phosphoric Ester Hydrolase Activity (GO:0042578)	1/52	6.060289e-02	9.327417e-02	0	0	1.698636e+01	4.761978e+01	PPP1CC
+GO_Molecular_Function_2023	Exopeptidase Activity (GO:0008238)	1/52	6.060289e-02	9.327417e-02	0	0	1.698636e+01	4.761978e+01	PM20D2
+GO_Molecular_Function_2023	Flavin Adenine Dinucleotide Binding (GO:0050660)	1/55	6.398962e-02	9.327417e-02	0	0	1.604026e+01	4.409522e+01	ETFDH
+GO_Molecular_Function_2023	Protein Serine/Threonine Phosphatase Activity (GO:0004722)	1/55	6.398962e-02	9.327417e-02	0	0	1.604026e+01	4.409522e+01	PPP1CC
+GO_Molecular_Function_2023	Hydrolase Activity, Acting On Carbon-Nitrogen (But Not Peptide) Bonds, In Linear Amides (GO:0016811)	1/56	6.511593e-02	9.327417e-02	0	0	1.574783e+01	4.301654e+01	PM20D2
+GO_Molecular_Function_2023	Nucleosome Binding (GO:0031491)	1/62	7.184655e-02	1.002070e-01	0	0	1.419458e+01	3.737750e+01	H3-3A
+GO_Molecular_Function_2023	Methylation-Dependent Protein Binding (GO:0140034)	1/68	7.853072e-02	1.058132e-01	0	0	1.291953e+01	3.287072e+01	SUZ12
+GO_Molecular_Function_2023	RNA Nuclease Activity (GO:0004540)	1/70	8.074850e-02	1.058132e-01	0	0	1.254379e+01	3.156540e+01	EXOSC2
+GO_Molecular_Function_2023	Methylated Histone Binding (GO:0035064)	1/71	8.185548e-02	1.058132e-01	0	0	1.236398e+01	3.094456e+01	SUZ12
+GO_Molecular_Function_2023	Phosphatase Activity (GO:0016791)	1/83	9.503992e-02	1.199313e-01	0	0	1.054825e+01	2.482487e+01	PPP1CC
+GO_Molecular_Function_2023	Kinase Binding (GO:0019900)	2/460	1.045813e-01	1.289025e-01	0	0	3.874156e+00	8.747035e+00	PPP1CC;MAPK4
+GO_Molecular_Function_2023	Transcription Coregulator Binding (GO:0001221)	1/99	1.123372e-01	1.353153e-01	0	0	8.818988e+00	1.928052e+01	SUZ12
+GO_Molecular_Function_2023	Carboxylic Ester Hydrolase Activity (GO:0052689)	1/104	1.176773e-01	1.385977e-01	0	0	8.388772e+00	1.795037e+01	ALDH2
+GO_Molecular_Function_2023	Protein Kinase Binding (GO:0019901)	2/511	1.244807e-01	1.434234e-01	0	0	3.476871e+00	7.244425e+00	PPP1CC;MAPK4
+GO_Molecular_Function_2023	Magnesium Ion Binding (GO:0000287)	1/155	1.704168e-01	1.921721e-01	0	0	5.596273e+00	9.902650e+00	NUDT5
+GO_Molecular_Function_2023	Protein Serine/Threonine Kinase Activity (GO:0004674)	1/342	3.391239e-01	3.744493e-01	0	0	2.503506e+00	2.707266e+00	MAPK4
+GO_Molecular_Function_2023	Metal Ion Binding (GO:0046872)	1/521	4.694577e-01	5.077808e-01	0	0	1.626756e+00	1.230115e+00	NUDT5
+GO_Molecular_Function_2023	DNA Binding (GO:0003677)	1/846	6.458039e-01	6.845521e-01	0	0	9.843581e-01	4.304198e-01	SUZ12
+GO_Molecular_Function_2023	Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000987)	1/1098	7.422970e-01	7.644648e-01	0	0	7.482462e-01	2.229818e-01	H3-3A
+GO_Molecular_Function_2023	RNA Polymerase II Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000978)	1/1122	7.500409e-01	7.644648e-01	0	0	7.312958e-01	2.103408e-01	H3-3A
+GO_Molecular_Function_2023	RNA Polymerase II Transcription Regulatory Region Sequence-Specific DNA Binding (GO:0000977)	1/1225	7.808157e-01	7.808157e-01	0	0	6.660983e-01	1.648035e-01	H3-3A
