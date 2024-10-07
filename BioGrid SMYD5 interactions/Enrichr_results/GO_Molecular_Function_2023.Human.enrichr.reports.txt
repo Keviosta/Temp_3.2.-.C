@@ -1,0 +1,96 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Molecular_Function_2023	Histone H3K36 Methyltransferase Activity (GO:0046975)	3/12	2.993313e-06	2.843647e-04	0	0	1.445072e+02	1.838006e+03	SETD3;SMYD2;SMYD3
+GO_Molecular_Function_2023	Ubiquitin Protein Ligase Binding (GO:0031625)	6/271	5.022400e-05	2.270750e-03	0	0	1.036560e+01	1.026092e+02	PRKN;HSPA8;MAP1LC3B;POLR2A;XRCC5;UBA52
+GO_Molecular_Function_2023	Ubiquitin-Like Protein Ligase Binding (GO:0044389)	6/289	7.170789e-05	2.270750e-03	0	0	9.697428e+00	9.254168e+01	PRKN;HSPA8;MAP1LC3B;POLR2A;XRCC5;UBA52
+GO_Molecular_Function_2023	U3 snoRNA Binding (GO:0034511)	2/9	2.093736e-04	4.972622e-03	0	0	1.212401e+02	1.027072e+03	XRCC5;RRP9
+GO_Molecular_Function_2023	Protein-Lysine N-methyltransferase Activity (GO:0016279)	3/54	3.139390e-04	5.964841e-03	0	0	2.544757e+01	2.052680e+02	SETD3;SMYD5;SMYD2
+GO_Molecular_Function_2023	Histone H4 Methyltransferase Activity (GO:0140939)	2/13	4.508127e-04	7.137868e-03	0	0	7.713733e+01	5.943014e+02	SMYD5;SMYD3
+GO_Molecular_Function_2023	Lysine N-methyltransferase Activity (GO:0016278)	2/25	1.701673e-03	2.095012e-02	0	0	3.686957e+01	2.350856e+02	SETD3;SMYD2
+GO_Molecular_Function_2023	Histone Deacetylase Binding (GO:0042826)	3/99	1.837619e-03	2.095012e-02	0	0	1.348845e+01	8.496759e+01	PRKN;NCOR1;SMYD4
+GO_Molecular_Function_2023	N-methyltransferase Activity (GO:0008170)	2/27	1.984749e-03	2.095012e-02	0	0	3.391660e+01	2.110380e+02	SETD3;SMYD2
+GO_Molecular_Function_2023	RNA Polymerase II Complex Binding (GO:0000993)	2/31	2.613001e-03	2.256683e-02	0	0	2.923258e+01	1.738536e+02	SMYD2;BRD4
+GO_Molecular_Function_2023	snoRNA Binding (GO:0030515)	2/31	2.613001e-03	2.256683e-02	0	0	2.923258e+01	1.738536e+02	XRCC5;RRP9
+GO_Molecular_Function_2023	Histone H3 Methyltransferase Activity (GO:0140938)	2/36	3.512690e-03	2.780879e-02	0	0	2.492741e+01	1.408741e+02	SETD3;SMYD2
+GO_Molecular_Function_2023	Promoter-Specific Chromatin Binding (GO:1990841)	2/42	4.755991e-03	3.317245e-02	0	0	2.118191e+01	1.132883e+02	POLR2A;PRDM15
+GO_Molecular_Function_2023	G Protein-Coupled Receptor Binding (GO:0001664)	3/140	4.888572e-03	3.317245e-02	0	0	9.432244e+00	5.018760e+01	TUB;PRKN;HSPA8
+GO_Molecular_Function_2023	S-adenosylmethionine-dependent Methyltransferase Activity (GO:0008757)	2/50	6.682897e-03	4.232501e-02	0	0	1.764450e+01	8.836727e+01	SETD3;SMYD2
+GO_Molecular_Function_2023	Tubulin Binding (GO:0015631)	4/322	7.907251e-03	4.694931e-02	0	0	5.487911e+00	2.656135e+01	PRKN;MAP1LC3B;KIF5B;MAST1
+GO_Molecular_Function_2023	C3HC4-type RING Finger Domain Binding (GO:0055131)	1/5	1.219122e-02	6.812740e-02	0	0	1.038906e+02	4.578501e+02	HSPA8
+GO_Molecular_Function_2023	DNA Binding (GO:0003677)	6/846	1.672301e-02	7.577386e-02	0	0	3.174585e+00	1.298713e+01	CDK9;POLR2A;XRCC5;H2BC3;RPA3;H1-1
+GO_Molecular_Function_2023	7SK snRNA Binding (GO:0097322)	1/7	1.702686e-02	7.577386e-02	0	0	6.925347e+01	2.820669e+02	CDK9
+GO_Molecular_Function_2023	Histone H4K20 Methyltransferase Activity (GO:0042799)	1/7	1.702686e-02	7.577386e-02	0	0	6.925347e+01	2.820669e+02	SMYD5
+GO_Molecular_Function_2023	Transcription Regulatory Region Nucleic Acid Binding (GO:0001067)	3/224	1.749799e-02	7.577386e-02	0	0	5.822349e+00	2.355530e+01	NCOR1;XRCC5;BRD4
+GO_Molecular_Function_2023	Histone Reader Activity (GO:0140566)	1/8	1.943597e-02	7.577386e-02	0	0	5.935714e+01	2.339045e+02	BRD4
+GO_Molecular_Function_2023	RNA Polymerase II CTD Heptapeptide Repeat Kinase Activity (GO:0008353)	1/8	1.943597e-02	7.577386e-02	0	0	5.935714e+01	2.339045e+02	CDK9
+GO_Molecular_Function_2023	Double-Stranded Telomeric DNA Binding (GO:0003691)	1/8	1.943597e-02	7.577386e-02	0	0	5.935714e+01	2.339045e+02	XRCC5
+GO_Molecular_Function_2023	RNA Binding (GO:0003723)	8/1411	2.036532e-02	7.577386e-02	0	0	2.579559e+00	1.004460e+01	HSPA8;NXF1;MOV10;DCD;POLR2A;XRCC5;TRIM25;RRP9
+GO_Molecular_Function_2023	Microtubule Binding (GO:0008017)	3/239	2.073811e-02	7.577386e-02	0	0	5.448139e+00	2.111580e+01	MAP1LC3B;KIF5B;MAST1
+GO_Molecular_Function_2023	Transcription Coregulator Binding (GO:0001221)	2/99	2.452919e-02	8.630640e-02	0	0	8.709805e+00	3.229501e+01	CDK9;USP11
+GO_Molecular_Function_2023	Histone Methyltransferase Binding (GO:1990226)	1/11	2.662868e-02	8.799902e-02	0	0	4.154375e+01	1.506279e+02	PRDM4
+GO_Molecular_Function_2023	Kinase Activity (GO:0016301)	2/106	2.783737e-02	8.799902e-02	0	0	8.120704e+00	2.908329e+01	CDK9;TKFC
+GO_Molecular_Function_2023	Transcription Cis-Regulatory Region Binding (GO:0000976)	4/474	2.853357e-02	8.799902e-02	0	0	3.684350e+00	1.310403e+01	NCOR1;XRCC5;DEAF1;BRD4
+GO_Molecular_Function_2023	RNA Polymerase II Transcription Regulatory Region Sequence-Specific DNA Binding (GO:0000977)	7/1225	2.871547e-02	8.799902e-02	0	0	2.563355e+00	9.100729e+00	ZNF430;PRDM4;DEAF1;ZNF417;PRDM15;ZNF446;ZNF587
+GO_Molecular_Function_2023	Histone H3K4 Methyltransferase Activity (GO:0042800)	1/13	3.139508e-02	9.320413e-02	0	0	3.461632e+01	1.198107e+02	SETD3
+GO_Molecular_Function_2023	Phospholipase Binding (GO:0043274)	1/15	3.613861e-02	1.040354e-01	0	0	2.966815e+01	9.850995e+01	PRKN
+GO_Molecular_Function_2023	5'-3' RNA Polymerase Activity (GO:0034062)	1/18	4.321127e-02	1.173223e-01	0	0	2.442892e+01	7.674722e+01	POLR2A
+GO_Molecular_Function_2023	Cadherin Binding (GO:0045296)	3/319	4.322402e-02	1.173223e-01	0	0	4.052353e+00	1.272989e+01	HSPA8;KIF5B;TRIM25
+GO_Molecular_Function_2023	Histone Methyltransferase Activity (GO:0042054)	1/19	4.555751e-02	1.189329e-01	0	0	2.307060e+01	7.126001e+01	SMYD3
+GO_Molecular_Function_2023	Ubiquitin-Specific Protease Binding (GO:1990381)	1/20	4.789811e-02	1.189329e-01	0	0	2.185526e+01	6.641113e+01	PRKN
+GO_Molecular_Function_2023	Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000987)	6/1098	5.054006e-02	1.189329e-01	0	0	2.409788e+00	7.193190e+00	ZNF430;PRDM4;ZNF417;PRDM15;ZNF446;ZNF587
+GO_Molecular_Function_2023	Protein Serine/Threonine Kinase Activity (GO:0004674)	3/342	5.127963e-02	1.189329e-01	0	0	3.772990e+00	1.120752e+01	CDK9;MAST1;BRD4
+GO_Molecular_Function_2023	Lysine-Acetylated Histone Binding (GO:0070577)	1/23	5.488623e-02	1.189329e-01	0	0	1.887216e+01	5.477630e+01	BRD4
+GO_Molecular_Function_2023	Cyclin-Dependent Protein Kinase Activity (GO:0097472)	1/23	5.488623e-02	1.189329e-01	0	0	1.887216e+01	5.477630e+01	CDK9
+GO_Molecular_Function_2023	Cyclin-Dependent Protein Serine/Threonine Kinase Activity (GO:0004693)	1/23	5.488623e-02	1.189329e-01	0	0	1.887216e+01	5.477630e+01	CDK9
+GO_Molecular_Function_2023	Acetylation-Dependent Protein Binding (GO:0140033)	1/23	5.488623e-02	1.189329e-01	0	0	1.887216e+01	5.477630e+01	BRD4
+GO_Molecular_Function_2023	RNA Polymerase II Cis-Regulatory Region Sequence-Specific DNA Binding (GO:0000978)	6/1122	5.508473e-02	1.189329e-01	0	0	2.354964e+00	6.826764e+00	ZNF430;PRDM4;ZNF417;PRDM15;ZNF446;ZNF587
+GO_Molecular_Function_2023	MHC Class II Protein Complex Binding (GO:0023026)	1/25	5.951704e-02	1.256471e-01	0	0	1.729774e+01	4.880545e+01	HSPA8
+GO_Molecular_Function_2023	Nuclear Thyroid Hormone Receptor Binding (GO:0046966)	1/27	6.412562e-02	1.324333e-01	0	0	1.596554e+01	4.385594e+01	NCOR1
+GO_Molecular_Function_2023	Ubiquitin Conjugating Enzyme Binding (GO:0031624)	1/28	6.642161e-02	1.342564e-01	0	0	1.537346e+01	4.168871e+01	PRKN
+GO_Molecular_Function_2023	Telomeric DNA Binding (GO:0042162)	1/33	7.781903e-02	1.408852e-01	0	0	1.296810e+01	3.311234e+01	XRCC5
+GO_Molecular_Function_2023	RNA Polymerase Core Enzyme Binding (GO:0043175)	1/33	7.781903e-02	1.408852e-01	0	0	1.296810e+01	3.311234e+01	SMYD2
+GO_Molecular_Function_2023	Transcription Coactivator Binding (GO:0001223)	1/34	8.008211e-02	1.408852e-01	0	0	1.257449e+01	3.174686e+01	CDK9
+GO_Molecular_Function_2023	DNA-directed 5'-3' RNA Polymerase Activity (GO:0003899)	1/34	8.008211e-02	1.408852e-01	0	0	1.257449e+01	3.174686e+01	POLR2A
+GO_Molecular_Function_2023	Ubiquitin-Like Protein Conjugating Enzyme Binding (GO:0044390)	1/34	8.008211e-02	1.408852e-01	0	0	1.257449e+01	3.174686e+01	PRKN
+GO_Molecular_Function_2023	Hsp70 Protein Binding (GO:0030544)	1/34	8.008211e-02	1.408852e-01	0	0	1.257449e+01	3.174686e+01	PRKN
+GO_Molecular_Function_2023	Nucleosomal DNA Binding (GO:0031492)	1/34	8.008211e-02	1.408852e-01	0	0	1.257449e+01	3.174686e+01	H1-1
+GO_Molecular_Function_2023	Basal RNA Polymerase II Transcription Machinery Binding (GO:0001099)	1/36	8.459194e-02	1.461134e-01	0	0	1.185476e+01	2.928027e+01	SMYD2
+GO_Molecular_Function_2023	Sequence-Specific Double-Stranded DNA Binding (GO:1990837)	4/715	9.726821e-02	1.633198e-01	0	0	2.405376e+00	5.605206e+00	NCOR1;PRDM4;XRCC5;BRD4
+GO_Molecular_Function_2023	Transcription Corepressor Binding (GO:0001222)	1/42	9.799190e-02	1.633198e-01	0	0	1.011687e+01	2.350018e+01	USP11
+GO_Molecular_Function_2023	snRNA Binding (GO:0017069)	1/43	1.002065e-01	1.641313e-01	0	0	9.875496e+00	2.271880e+01	CDK9
+GO_Molecular_Function_2023	Damaged DNA Binding (GO:0003684)	1/45	1.046196e-01	1.684553e-01	0	0	9.425663e+00	2.127772e+01	RPA3
+GO_Molecular_Function_2023	Ubiquitin-Like Protein Transferase Activity (GO:0019787)	2/240	1.169740e-01	1.852088e-01	0	0	3.524584e+00	7.563066e+00	PRKN;TRIM25
+GO_Molecular_Function_2023	SH3 Domain Binding (GO:0017124)	1/59	1.349236e-01	2.101269e-01	0	0	7.145474e+00	1.431272e+01	PRKN
+GO_Molecular_Function_2023	PDZ Domain Binding (GO:0030165)	1/62	1.412854e-01	2.130494e-01	0	0	6.793033e+00	1.329378e+01	PRKN
+GO_Molecular_Function_2023	Nucleosome Binding (GO:0031491)	1/62	1.412854e-01	2.130494e-01	0	0	6.793033e+00	1.329378e+01	H1-1
+GO_Molecular_Function_2023	ATP Binding (GO:0005524)	2/279	1.491883e-01	2.214514e-01	0	0	3.022352e+00	5.750163e+00	HSPA8;MAST1
+GO_Molecular_Function_2023	Phosphotransferase Activity, Alcohol Group As Acceptor (GO:0016773)	1/77	1.724132e-01	2.493816e-01	0	0	5.448191e+00	9.577166e+00	TKFC
+GO_Molecular_Function_2023	Adenyl Ribonucleotide Binding (GO:0032559)	2/309	1.750613e-01	2.493816e-01	0	0	2.722850e+00	4.744889e+00	HSPA8;MAST1
+GO_Molecular_Function_2023	Ubiquitin Protein Ligase Activity (GO:0061630)	2/311	1.768127e-01	2.493816e-01	0	0	2.704951e+00	4.686771e+00	PRKN;TRIM25
+GO_Molecular_Function_2023	Ubiquitin Binding (GO:0043130)	1/80	1.785047e-01	2.493816e-01	0	0	5.240506e+00	9.030127e+00	PRKN
+GO_Molecular_Function_2023	Ubiquitin-Like Protein Ligase Activity (GO:0061659)	2/319	1.838467e-01	2.504639e-01	0	0	2.635613e+00	4.463814e+00	PRKN;TRIM25
+GO_Molecular_Function_2023	Chromatin DNA Binding (GO:0031490)	1/83	1.845523e-01	2.504639e-01	0	0	5.048018e+00	8.530253e+00	H1-1
+GO_Molecular_Function_2023	DNA-binding Transcription Activator Activity, RNA Polymerase II-specific (GO:0001228)	2/348	2.096690e-01	2.749125e-01	0	0	2.411143e+00	3.766747e+00	PRDM4;PRDM15
+GO_Molecular_Function_2023	Single-Stranded DNA Binding (GO:0003697)	1/96	2.102587e-01	2.749125e-01	0	0	4.354386e+00	6.790303e+00	RPA3
+GO_Molecular_Function_2023	Double-Stranded DNA Binding (GO:0003690)	3/650	2.127835e-01	2.749125e-01	0	0	1.945837e+00	3.011144e+00	PRDM4;XRCC5;H1-1
+GO_Molecular_Function_2023	Cysteine-Type Deubiquitinase Activity (GO:0004843)	1/98	2.141424e-01	2.749125e-01	0	0	4.264175e+00	6.571581e+00	USP11
+GO_Molecular_Function_2023	Cysteine-Type Endopeptidase Activity (GO:0004197)	1/106	2.294909e-01	2.906885e-01	0	0	3.937698e+00	5.795866e+00	USP11
+GO_Molecular_Function_2023	Deubiquitinase Activity (GO:0101005)	1/113	2.426798e-01	3.033497e-01	0	0	3.690290e+00	5.225497e+00	USP11
+GO_Molecular_Function_2023	Nuclear Receptor Binding (GO:0016922)	1/115	2.464072e-01	3.040089e-01	0	0	3.625183e+00	5.078046e+00	NCOR1
+GO_Molecular_Function_2023	Protease Binding (GO:0002020)	1/125	2.647765e-01	3.219372e-01	0	0	3.331149e+00	4.426661e+00	PRKN
+GO_Molecular_Function_2023	Ubiquitin-Protein Transferase Activity (GO:0004842)	2/412	2.677162e-01	3.219372e-01	0	0	2.028127e+00	2.672722e+00	PRKN;TRIM25
+GO_Molecular_Function_2023	Cysteine-Type Peptidase Activity (GO:0008234)	1/144	2.984777e-01	3.544423e-01	0	0	2.885781e+00	3.489082e+00	USP11
+GO_Molecular_Function_2023	Kinase Binding (GO:0019900)	2/460	3.114181e-01	3.652435e-01	0	0	1.811112e+00	2.112877e+00	PRKN;POLR2A
+GO_Molecular_Function_2023	Magnesium Ion Binding (GO:0000287)	1/155	3.172923e-01	3.675947e-01	0	0	2.678166e+00	3.074352e+00	MAST1
+GO_Molecular_Function_2023	Purine Ribonucleoside Triphosphate Binding (GO:0035639)	2/476	3.259033e-01	3.730218e-01	0	0	1.748541e+00	1.960385e+00	HSPA8;MAST1
+GO_Molecular_Function_2023	Actin Binding (GO:0003779)	1/183	3.629816e-01	4.105149e-01	0	0	2.262935e+00	2.293265e+00	PRKN
+GO_Molecular_Function_2023	Small GTPase Binding (GO:0031267)	1/199	3.877305e-01	4.333458e-01	0	0	2.078388e+00	1.969158e+00	MYO1C
+GO_Molecular_Function_2023	GTPase Binding (GO:0051020)	1/225	4.259526e-01	4.697690e-01	0	0	1.834728e+00	1.565807e+00	MYO1C
+GO_Molecular_Function_2023	RNA Polymerase II-specific DNA-binding Transcription Factor Binding (GO:0061629)	1/228	4.302095e-01	4.697690e-01	0	0	1.810206e+00	1.526878e+00	NCOR1
+GO_Molecular_Function_2023	DNA-binding Transcription Repressor Activity, RNA Polymerase II-specific (GO:0001227)	1/243	4.510344e-01	4.869122e-01	0	0	1.696711e+00	1.350941e+00	DEAF1
+GO_Molecular_Function_2023	DNA-binding Transcription Factor Binding (GO:0140297)	1/282	5.017524e-01	5.355784e-01	0	0	1.458333e+00	1.005738e+00	NCOR1
+GO_Molecular_Function_2023	Sequence-Specific DNA Binding (GO:0043565)	2/717	5.286032e-01	5.579700e-01	0	0	1.144830e+00	7.298487e-01	PRDM4;XRCC5
+GO_Molecular_Function_2023	Endopeptidase Activity (GO:0004175)	1/335	5.633848e-01	5.881490e-01	0	0	1.223615e+00	7.021011e-01	USP11
+GO_Molecular_Function_2023	Zinc Ion Binding (GO:0008270)	1/341	5.698727e-01	5.884555e-01	0	0	1.201654e+00	6.757411e-01	PRKN
+GO_Molecular_Function_2023	Transition Metal Ion Binding (GO:0046914)	1/456	6.774524e-01	6.920212e-01	0	0	8.926740e-01	3.476216e-01	PRKN
+GO_Molecular_Function_2023	Protein Kinase Binding (GO:0019901)	1/511	7.191016e-01	7.260863e-01	0	0	7.941585e-01	2.618758e-01	PRKN
+GO_Molecular_Function_2023	Metal Ion Binding (GO:0046872)	1/521	7.260863e-01	7.260863e-01	0	0	7.784856e-01	2.491827e-01	MAST1
